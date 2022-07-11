@@ -1,0 +1,7 @@
+{"tenants":[
+  { "aptNum":1, "firstName":"Mark", "phoneNumber":"+12145555567"},
+  { "aptNum":2, "firstName":"Jeremy", "phoneNumber":"+12145555568"},
+  { "aptNum":3, "firstName":"Big Suse", "phoneNumber":"+12145555569"},
+  { "aptNum":3, "firstName":"Super Hands", "phoneNumber":"+12145555563"},
+  { "aptNum":4, "firstName":"Johnson", "phoneNumber":"+12145555569"}
+]}
