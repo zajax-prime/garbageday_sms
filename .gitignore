@@ -1,5 +1,10 @@
 # Project files
 .vscode/
+
+# Config and Test Config
+gd_config.json
+gd_config_test_json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
